@@ -3,7 +3,7 @@
 # Martensitic_phase_transformation # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 Phase field modeling of the martensitic phase transformation
 
-## filename = Allen.f90
+## filename = Allen_cahn_2D.f90
 
 	Author : Vahid Attari
 	Created: 30 Feb. 2022
