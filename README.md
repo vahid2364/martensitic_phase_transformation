@@ -28,7 +28,7 @@ Phase field modeling of the martensitic phase transformation
 	-  Update phase information and concentration data
 
 
-!! Compilation instructions: 
+## Compilation instructions: 
 	>> see make file
 	>> - Manual: >>  ifort -qmkl $MKLROOT/mkl_dfti.f90 -o pfm.out file.f90
 
