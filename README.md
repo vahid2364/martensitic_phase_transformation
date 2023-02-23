@@ -1,23 +1,18 @@
-# martensitic_phase_transformation
-Phase field modeling of the martensitic phase transformation
-
 <img src="icon.png" align="right" />
 
-# Cahn-Hilliard-Equation-Solver-FDM-2D # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Martensitic_phase_transformation # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+Phase field modeling of the martensitic phase transformation
 
-## filename = CH.f90
+## filename = Allen.f90
 
 	Author : Vahid Attari
-	Created: 30 Feb. 2016
+	Created: 30 Feb. 2022
 	Modified: ....
 	Arroyave Research Group, Department of Materials Science & Engineering, Texas A&M University
-	Acknowledgements:  Based on Cahn-Hilliard 1965 paper
+	Acknowledgements:  Based on Allen-Cahn 1965 paper
 	
 ## Purpose:
 
-	- Phase Field Modeling with dynamic coupling to thermodyanmic and kinetic databases to self consistantly model the Spinodal Composition Phenomenon
-	- Dynamic coupling is not provided ...
-   
 ## General Algorithm function:
 
 	1. Retrieve parameter data from file "parameters.dat"
@@ -34,8 +29,8 @@ Phase field modeling of the martensitic phase transformation
 
 
 !! Compilation instructions: 
-	>> make file is not provided
-	>> - Manual: >>  ifort -o a.out CH.f90
+	>> see make file
+	>> - Manual: >>  ifort -qmkl $MKLROOT/mkl_dfti.f90 -o pfm.out file.f90
 
 !! Execution: >> ./a.out 
                                 
