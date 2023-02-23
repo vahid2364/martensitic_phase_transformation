@@ -45,10 +45,12 @@ Phase field modeling of the martensitic phase transformation
 	!   with periodic boundary conditions.
 	!   Nonlinear term: f(u) = u - u**3
 
+## Watch the video:
+
 <table>
   <tr>
     <td> 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/vahid2364/martensitic_phase_transformation/blob/main/animation/animation.mp4)
+ \url(https://github.com/vahid2364/martensitic_phase_transformation/blob/main/animation/animation.mp4)
 	  </td>
    <tr>
 </table>
