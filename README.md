@@ -29,8 +29,8 @@ Phase field modeling of the martensitic phase transformation
 
 
 ## Compilation instructions: 
-	>> see make file
-	>> - Manual: >>  ifort -qmkl $MKLROOT/mkl_dfti.f90 -o pfm.out file.f90
+	- see make file
+	- Manual: >>  ifort -qmkl $MKLROOT/mkl_dfti.f90 -o pfm.out file.f90
 
 !! Execution: >> ./a.out 
                                 
