@@ -49,8 +49,7 @@ Phase field modeling of the martensitic phase transformation
   <tr>
     <td> 
 <img src="https://user-images.githubusercontent.com/11892854/118386432-78937500-b5e5-11eb-9c48-dc04c4be50b4.jpeg" alt="microstructures_000001" width="250" height="250">	
-![](https://github.com/vahid2364/martensitic_phase_transformation/blob/main/animation/animation.mp4)
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/vahid2364/martensitic_phase_transformation/blob/main/animation/animation.mp4)
 	  </td>
    <tr>
 </table>
