@@ -39,11 +39,11 @@ Phase field modeling of the martensitic phase transformation
 	!!------------------------------------------------------------------------------------
 	!!====================================================================================
 
-	!   This code simulates the early stage of Spinodal Decomposition...
+	!   This code simulates the early stage of transition ...
 
-	!   Cahn- Hilliard solver 	
+	!   Two Allen- Hilliard solver 	
 	!   with periodic boundary conditions.
-	!   Nonlinear term: f(u) = u - u**3
+	!   Nonlinear term: f(u) = 
 
 ## Watch the video:
 
