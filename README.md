@@ -9,7 +9,7 @@ Phase field modeling of the martensitic phase transformation
 	Created: 30 Feb. 2022
 	Modified: ....
 	Arroyave Research Group, Department of Materials Science & Engineering, Texas A&M University
-	Acknowledgements:  Based on Allen-Cahn 1965 paper
+	Acknowledgements:  Based on 
 	
 ## Purpose:
 
